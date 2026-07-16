@@ -389,7 +389,7 @@ int main() {
 
                 do{
 
-                    cout << endl << endl << "<====== SELECT OPTION ======>" << endl;
+                    cout << endl << endl << "<====== SELECT OPTION TO ADD ======>" << endl;
 
                     cout << endl << "Press 1 to Add Book." << endl;
                     cout << "Press 2 to Add DVDs." << endl;
@@ -465,7 +465,7 @@ int main() {
 
                 do{
 
-                    cout << endl << endl << "<====== SELECT OPTION ======>" << endl;
+                    cout << endl << endl << "<====== SELECT OPTION TO DISPLAY ======>" << endl;
 
                     cout << endl << "Press 1 to Display Books." << endl;
                     cout << "Press 2 to Display DVDs." << endl;
@@ -569,7 +569,7 @@ int main() {
 
                 do {
 
-                    cout << endl << endl << "<====== SELECT OPTION ======>" << endl;
+                    cout << endl << endl << "<====== SELECT OPTION TO CHECKOUT ======>" << endl;
 
                     cout << endl << "Press 1 to Issue Book." << endl;
                     cout << "Press 2 to Issue DVD." << endl;
@@ -704,7 +704,7 @@ int main() {
 
                 do {
 
-                    cout << endl << endl << "<====== SELECT OPTION ======>" << endl;
+                    cout << endl << endl << "<====== SELECT OPTION TO RETURN ======>" << endl;
 
                     cout << endl << "Press 1 to Return Book." << endl;
                     cout << "Press 2 to Return DVD." << endl;
